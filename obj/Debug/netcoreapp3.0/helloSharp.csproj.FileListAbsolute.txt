@@ -1,0 +1,11 @@
+C:\Users\Ryan\Documents\GitHub\helloSharp\bin\Debug\netcoreapp3.0\helloSharp.exe
+C:\Users\Ryan\Documents\GitHub\helloSharp\bin\Debug\netcoreapp3.0\helloSharp.deps.json
+C:\Users\Ryan\Documents\GitHub\helloSharp\bin\Debug\netcoreapp3.0\helloSharp.runtimeconfig.json
+C:\Users\Ryan\Documents\GitHub\helloSharp\bin\Debug\netcoreapp3.0\helloSharp.runtimeconfig.dev.json
+C:\Users\Ryan\Documents\GitHub\helloSharp\bin\Debug\netcoreapp3.0\helloSharp.dll
+C:\Users\Ryan\Documents\GitHub\helloSharp\bin\Debug\netcoreapp3.0\helloSharp.pdb
+C:\Users\Ryan\Documents\GitHub\helloSharp\obj\Debug\netcoreapp3.0\helloSharp.csprojAssemblyReference.cache
+C:\Users\Ryan\Documents\GitHub\helloSharp\obj\Debug\netcoreapp3.0\helloSharp.AssemblyInfoInputs.cache
+C:\Users\Ryan\Documents\GitHub\helloSharp\obj\Debug\netcoreapp3.0\helloSharp.AssemblyInfo.cs
+C:\Users\Ryan\Documents\GitHub\helloSharp\obj\Debug\netcoreapp3.0\helloSharp.dll
+C:\Users\Ryan\Documents\GitHub\helloSharp\obj\Debug\netcoreapp3.0\helloSharp.pdb
